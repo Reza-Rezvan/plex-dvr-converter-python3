@@ -14,3 +14,5 @@ The script will find all the `.ts` files in that directory (NO SUBFOLDERS), then
 - Updated the `video-transcoder-py3.py` script to be compatible with Python 3.
 - Fixed syntax issues, primarily by modifying `print` statements to use parentheses.
 - This update ensures compatibility with modern Python versions while maintaining the existing functionality.
+
+- Adding AVI to MP4 converter
