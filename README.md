@@ -18,6 +18,6 @@ The script will find all the `.ts` files in that directory (NO SUBFOLDERS), then
 - Adding AVI to MP4 converter
 
 # update_V2
-```python
+```
 import numpy
 ```
