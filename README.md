@@ -16,3 +16,8 @@ The script will find all the `.ts` files in that directory (NO SUBFOLDERS), then
 - This update ensures compatibility with modern Python versions while maintaining the existing functionality.
 
 - Adding AVI to MP4 converter
+
+# update_V2
+```python
+import numpy
+```
